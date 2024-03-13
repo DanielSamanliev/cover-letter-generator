@@ -1,5 +1,5 @@
 # Cover Letter Generator
-Generate Cover Letters from a job post using ChatGPT
+Chrome extension for generating Cover Letters from a job post using ChatGPT.
 
 1. Select job post text.
 2. Right click and find the extension context menu.
