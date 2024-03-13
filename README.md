@@ -12,3 +12,4 @@ Chrome extension for generating Cover Letters from a job post using ChatGPT.
 ![image](https://github.com/DanielSamanliev/cover-letter-generator/assets/52927673/e4e3dfd6-dffa-4455-9e39-f52a37930c9f)
 
 
+## Yes this public on purpose.
